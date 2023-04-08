@@ -14,3 +14,6 @@ Left Click Sword = Does Damage (Normal)
 Right Click Speed = SPEED UP
 
 Right Click Push = Pushes The Player That You Are Looking At
+
+Want to test it? Join Our Mc Server: mgamescraft.revivesmc.net
+----------------------------------------------------------------
