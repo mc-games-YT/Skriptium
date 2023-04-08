@@ -1,3 +1,5 @@
+Plugin Not AVAILABLE At The Moment & Will Be Released In The Future
+-----------------------------------
 Has on-join items that are skripted:
 
 Right Click Sword = Mega Jump
