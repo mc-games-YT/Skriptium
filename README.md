@@ -1,6 +1,6 @@
 Scriptium PvP Plugin
 -----------------------------------
-Plugin Not AVAILABLE At The Moment & Will Be Released In The Future
+Plugin Not Is Not AVAILABLE.
 -----------------------------------
 Has on-join items that are skripted:
 -----------------------------------
